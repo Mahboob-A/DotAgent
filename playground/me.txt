@@ -1,0 +1,5 @@
+{{#user}}
+Name: Mahboob Alam
+Skills: Python, Django, Django Rest Framework, Postman, RESTfulAPI, SQL, MySQL, Postgresql, C/C++, HTML, CSS
+Email: iammahboob.a@gmail.com
+{{/user}}
